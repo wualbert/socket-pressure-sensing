@@ -25,7 +25,10 @@ void setup() {
 }
 
 void loop() {
-  Serial.println(scale.get_units(), 1); //prints value
+  Serial.print(millis());
+  Serial.print(",");
+  Serial.print(scale.get_units(), 1); //prints value
+  Serial.println();
   //For reading serial inputs
   if(Serial.available())
   {
