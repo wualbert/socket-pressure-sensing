@@ -1,6 +1,4 @@
 # Socket Pressure Sensing
-
-## About
 The code in this repository is for reading and recording data using MATLAB from a Wheatstone-bridge force sensor.
 An Arduino and [HX711](https://www.sparkfun.com/products/13879) are required.
 
