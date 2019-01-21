@@ -1,6 +1,4 @@
 # Socket Pressure Sensing
-#### Albert Wu ([wualbert@mit.edu])
-#### 2019 January
 
 ## About
 The code in this repository is for reading and recording data using MATLAB from a Wheatstone-bridge force sensor.
